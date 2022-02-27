@@ -1,0 +1,7 @@
+baseURL = 'http://zomzog.fr'
+languageCode = 'en-us'
+title = 'My Little Bonsai'
+theme = "binario"
+[security]
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', 'asciidoctor']

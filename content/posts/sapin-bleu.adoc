@@ -1,0 +1,28 @@
+---
+title: "Sapin bleu"
+date: 2021-12-25T17:45:36Z
+draft: false
+---
+:imagesdir: /images/sapin-bleu
+
+:toc:
+:toclevels: 4
+
+
+== 23/12/2021: Obtention
+
+Truffaut, panier phoenix (8 euros)
+
+[.columns]
+== 27/02/2022: Taille de structure
+
+=== Avant
+image:IMG_20220227_170757.jpg[width=150px]
+image:IMG_20220227_170802.jpg[width=150px]
+image:IMG_20220227_170806.jpg[width=150px]
+
+=== Après
+image:IMG_20220227_172500.jpg[width=150px]
+image:IMG_20220227_181234.jpg[width=150px]
+image:IMG_20220227_181241.jpg[width=150px]
+image:IMG_20220227_181247.jpg[width=150px]

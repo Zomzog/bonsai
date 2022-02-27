@@ -1,0 +1,27 @@
+---
+title: "Pin noir agnes"
+date: 2022-01-17T17:45:36Z
+draft: false
+---
+:imagesdir: /images/pin-noir-agnes
+
+:toc:
+:toclevels: 4
+
+
+== 17/01/2022: Obtention
+
+Truffaut, panier phoenix (10 euros)
+
+image:IMG_20220205_152722.jpg[width=150px]
+
+== 05/02/2022: Rempotage
+
+image:IMG_20220205_140033_1.jpg[width=150px]
+image:IMG_20220205_140033.jpg[width=150px]
+image:IMG_20220205_140039.jpg[width=150px]
+image:IMG_20220205_140138.jpg[width=150px]
+image:IMG_20220205_140141.jpg[width=150px]
+image:IMG_20220205_140144.jpg[width=150px]
+image:IMG_20220205_140153.jpg[width=150px]
+image:IMG_20220205_140155.jpg[width=150px]
