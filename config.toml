@@ -1,4 +1,4 @@
-baseURL = 'http://zomzog.fr'
+baseURL = 'http://zomzog.fr/bonsai'
 languageCode = 'en-us'
 title = 'My Little Bonsai'
 theme = "binario"
