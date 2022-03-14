@@ -1,0 +1,21 @@
+---
+title: "Azalee japonais"
+date: 2021-05-27T00:00:00Z
+draft: false
+---
+:imagesdir: /images/azalee-japonais
+
+:toc:
+:toclevels: 4
+
+
+== 27/05/2021: Obtention
+
+Achat carrefour en mauvais état, rempotage fait directement.
+
+image:IMG_20210527_184140.jpg[width=150px]
+image:IMG_20210527_184150.jpg[width=150px]
+
+Quelques semaines plus tard
+
+image:2022-03-13.jpg[width=150px]

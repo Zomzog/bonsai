@@ -1,0 +1,17 @@
+---
+title: "Aubepine"
+date: 2021-06-06T00:00:00Z
+draft: false
+---
+:imagesdir: /images/aubepine
+
+:toc:
+:toclevels: 4
+
+
+== 06/06/2021: Obtention
+
+image:2021-06-06T11_38_38+02_00.JPEG[width=150px]
+image:IMG_20210607_195407.jpg[width=150px]
+
+Extrait de sous la terrasse

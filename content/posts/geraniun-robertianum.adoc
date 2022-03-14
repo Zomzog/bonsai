@@ -1,0 +1,19 @@
+---
+title: "Geraniun Robertianum"
+date: 2021-06-06T00:00:00Z
+draft: false
+---
+:imagesdir: /images/geraniun-robertianum
+
+:toc:
+:toclevels: 4
+
+
+== 06/06/2021: Obtention
+
+Récupére sous la terrasse
+
+image:2021-06-06T12_13_35+02_00.JPEG[width=150px]
+image:IMG_20210607_195413.jpg[width=150px]
+image:IMG_20210607_195416_1.jpg[width=150px]
+image:IMG_20210607_195416.jpg[width=150px]

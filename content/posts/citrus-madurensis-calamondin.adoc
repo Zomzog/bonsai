@@ -1,0 +1,32 @@
+
+---
+title: "Calamondin (citrus madurensis)"
+date: 2021-04-26T00:00:00Z
+draft: false
+---
+:imagesdir: /images/citrus-madurensis-calamondin
+
+:toc:
+:toclevels: 4
+
+
+== 12/09/2021: Obtention
+
+Achat ikea
+Rempotage:
+- 40% akadama
+- 40% Pumice
+- 20% Pouzzolane
+
+
+== 27/05/2021:
+image:IMG_20210527_184239.jpg[width=150px]
+image:IMG_20210527_184243.jpg[width=150px]
+
+== 2021/12/30
+Taille structure
+
+image:IMG_20211230_175100.jpg[width=150px]
+image:IMG_20211230_175108_1.jpg[width=150px]
+image:IMG_20211230_175108.jpg[width=150px]
+image:IMG_20211230_175116.jpg[width=150px]

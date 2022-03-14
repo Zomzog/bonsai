@@ -1,0 +1,16 @@
+---
+title: "Fusain"
+date: 2017-01-01T00:00:00Z
+draft: false
+---
+:imagesdir: /images/fusain
+
+:toc:
+:toclevels: 4
+
+
+== 05/09/2021: Obtention
+
+Folie aux plantes, nantes-bonsai.
+
+image:2021-09-05.jpg[width=150px]

@@ -1,0 +1,18 @@
+---
+title: "Olivier Lidl"
+date: 2021-05-27T00:00:00Z
+draft: false
+---
+:imagesdir: /images/olivier-lidl
+
+:toc:
+:toclevels: 4
+
+
+== 27/05/2021: Obtention
+
+Olivier lidl 15e
+
+image:2021.jpg[width=150px]
+image:IMG_20210527_184040.jpg[width=150px]
+image:IMG_20210527_184046.jpg[width=150px]

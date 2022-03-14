@@ -1,0 +1,15 @@
+---
+title: "Micro (Beaucarnea)"
+date: 2021-07-03T00:00:00Z
+draft: false
+---
+:imagesdir: /images/beaucarnea-micro
+
+:toc:
+:toclevels: 4
+
+
+== 03/07/2021: Obtention
+
+image:2021-07-03T10_25_32+02_00.JPEG[width=150px]
+image:2021-07-03T10_26_03+02_00.JPEG[width=150px]

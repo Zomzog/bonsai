@@ -1,0 +1,26 @@
+---
+title: "Pinus"
+date: 2021-04-19T00:00:00Z
+draft: false
+---
+:imagesdir: /images/pinus
+
+:toc:
+:toclevels: 4
+
+
+== 19/04/2021: Obtention
+
+image:IMG_20210419_112051.jpg[width=150px]
+image:IMG_20210419_112058.jpg[width=150px]
+
+== 27/05/2021: Rempotage
+
+image:IMG_20210527_184050.jpg[width=150px]
+image:IMG_20210527_184056.jpg[width=150px]
+
+== 31/12/2021:
+image:IMG_20211231_164624.jpg[width=150px]
+image:IMG_20211231_164636.jpg[width=150px]
+image:IMG_20211231_164637.jpg[width=150px]
+image:IMG_20211231_164640.jpg[width=150px]

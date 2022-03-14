@@ -1,0 +1,21 @@
+---
+title: "Cypres cascade"
+date: 2017-01-01T00:00:00Z
+draft: false
+---
+:imagesdir: /images/cypres-cascade
+
+:toc:
+:toclevels: 4
+
+
+== ??/??/202?: Obtention
+
+== 30/12/2021: Taille
+
+image:IMG_20211230_163741.jpg[width=150px]
+image:IMG_20211230_163743.jpg[width=150px]
+image:IMG_20211230_163747.jpg[width=150px]
+image:IMG_20211230_175028.jpg[width=150px]
+image:IMG_20211230_175034.jpg[width=150px]
+image:IMG_20211230_175041.jpg[width=150px]

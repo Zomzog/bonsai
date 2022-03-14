@@ -1,0 +1,18 @@
+---
+title: "Cypres trident"
+date: 2021-05-29T00:00:00Z
+draft: false
+---
+:imagesdir: /images/cypres-trident
+
+:toc:
+:toclevels: 4
+
+
+== 29/05/2021: Obtention
+
+Rempotabe et mise en forme
+
+image:IMG_20210529_175457.jpg[width=150px]
+image:IMG_20210529_175503.jpg[width=150px]
+image:IMG_20210529_175510.jpg[width=150px]
