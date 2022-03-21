@@ -1,3 +1,6 @@
 {     
-  "minKBReduced": 0  
+  "minKBReduced": 0,
+  "ignoredFiles": [
+    	"static/images/*"
+    ],
 }
