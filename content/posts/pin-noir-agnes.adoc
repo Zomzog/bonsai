@@ -25,3 +25,7 @@ image:IMG_20220205_140141.jpg[width=150px]
 image:IMG_20220205_140144.jpg[width=150px]
 image:IMG_20220205_140153.jpg[width=150px]
 image:IMG_20220205_140155.jpg[width=150px]
+
+== 18/03/2022: Photo evolution
+image:IMG_20220318_102318.jpg[width=150px]
+image:IMG_20220318_102331.jpg[width=150px]
