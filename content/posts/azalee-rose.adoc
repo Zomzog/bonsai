@@ -1,0 +1,20 @@
+---
+title: "Azalee rose"
+date: 2022-03-16T00:00:00Z
+draft: false
+---
+:imagesdir: /images/azalee-rose
+
+:toc:
+:toclevels: 4
+
+
+== 16/03/2022: Obtention
+
+Achat truffaut en mauvais état, rempotage fait directement.
+
+image:IMG_20220319_173953.jpg[width=150px]
+image:IMG_20220319_173956.jpg[width=150px]
+image:IMG_20220319_173958.jpg[width=150px]
+image:IMG_20220319_174000.jpg[width=150px]
+image:IMG_20220319_174037.jpg[width=150px]
